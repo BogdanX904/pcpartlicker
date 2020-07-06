@@ -174,4 +174,4 @@ async def delete(ctx,message:str, name:str):
     else:
         await ctx.send("You don't have permission to use that command!")
 
-bot.run("NzI5MDU5Nzg0MTc5MDU2NzIx.XwDdEA.hM5c6J5ATXHoeXVi37S8aTaynyo")
+bot.run("TOKEN")
